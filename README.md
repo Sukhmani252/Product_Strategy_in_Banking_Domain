@@ -15,5 +15,8 @@ The end users of this dashboard will be the top-level management and product str
 Excel and Power BI**
 
 **Video Presentation**: https://youtu.be/DOiCkvaSt9w
+
 **Live Interactive Dashboard**: https://www.novypro.com/project/product-strategy-in-banking-domain
+
 **Challenge Link**: https://codebasics.io/challenge/codebasics-resume-project-challenge
+
