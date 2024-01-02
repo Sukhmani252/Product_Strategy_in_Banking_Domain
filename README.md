@@ -1,4 +1,4 @@
-#### Provide Insights to the Product Strategy Team in the Banking Domain
+# Provide Insights to the Product Strategy Team in the Banking Domain
 
 **Problem Statement:** 
 Mitron Bank, a legacy financial institution headquartered in Hyderabad wants to introduce a new line of credit cards, aiming to broaden its product offerings and reach the financial market.
