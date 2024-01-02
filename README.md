@@ -12,7 +12,7 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad wants to 
 The end users of this dashboard will be the top-level management and product strategy team of Mitron Bank. So, I have focused on showcasing powerful insights using simple visuals.  
 
 **Tools Used:** 
-Excel and Power BI**
+Excel and Power BI
 
 **Video Presentation**: https://youtu.be/DOiCkvaSt9w
 
